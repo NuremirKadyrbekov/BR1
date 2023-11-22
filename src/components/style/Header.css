@@ -1,0 +1,47 @@
+.main{
+    background: linear-gradient(180deg, #0C4C7B -100%, #1E2F40 100%);
+    width: 87%;
+    height: 600px;
+    border: 1px solid;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.imgBlock img{
+    width: 520px;
+}
+.title{
+
+}
+.title h3{
+  color: #FBB731;
+  font-size: 30px;
+
+}
+.title h1{
+    font-family: Nunito Sans;
+font-size: 120px;
+font-weight: 800;
+line-height: 140px;
+letter-spacing: 0px;
+text-align: left;
+color: white;
+margin-top: -10px;
+}
+.title p{
+    font-family: Open Sans;
+font-size: 19px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0px;
+text-align: left;
+color: white;
+}
+.title button{
+    width: 170px;
+    height: 58px;
+    background: #FBB731;
+    border: none;
+    cursor: pointer;
+
+}
